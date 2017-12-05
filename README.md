@@ -15,7 +15,7 @@ Exploring Cellular Automata
 
 ## Rubric:
 
-4 - You get it working and do something interesting with a nature of code sketch.
+4 - Make use of **two** of Shiffman's suggestions.
 
 3 - You get it working
 
